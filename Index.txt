@@ -20,5 +20,5 @@
 \Set barcode size with barcode sdk
 \Simple barcode reading with BarCode Reader SDK
 \Split pdf with pdf extractor sdk
-\Create side by side manifest\UMMM-master
-\Create side by side manifest\UMMM-master\Src
+\Create side by side manifest\Create side by side manifest
+\Create side by side manifest\Create side by side manifest\Src
